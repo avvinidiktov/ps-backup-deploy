@@ -1,0 +1,99 @@
+INFO: 2020-06-29:04-49-49 - Start backuping project
+INFO: 2020-06-29:04-49-49 - Backup for project created, PATH: C:\Users\vinid\Desktop\SampleProjectName\modules\C:\Users\vinid\Desktop\SampleProjectName\modules
+INFO: 2020-06-29:04-49-49 - Backuping project ---> DONE 
+INFO: 2020-06-29:04-49-49 - Start backuping Database
+INFO: 2020-06-29:04-49-49 - Backuping Database ---> DONE 
+INFO: 2020-06-29:04-49-49 - Start pulling from github: 
+INFO: 2020-06-29:04-49-49 - Pulling project ---> DONE 
+INFO: 2020-06-29:04-49-49 - Start publishing project: 
+INFO: 2020-06-29:04-49-49 - Publishing project ---> DONE 
+INFO: 2020-06-29:04-49-49 - Start renewing project: 
+INFO: 2020-06-29:04-49-49 - Renewing project ---> DONE 
+INFO: 2020-06-29:04-49-49 - Start deploying modules: 
+INFO: 2020-06-29:04-49-49 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\admin is complete
+INFO: 2020-06-29:04-49-49 - Module Admin exists ---> Continue
+INFO: 2020-06-29:04-49-49 - Success! Admin module updated ---> Continue
+INFO: 2020-06-29:04-49-49 - CLEANED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\Business\App_Code.fullname
+INFO: 2020-06-29:04-49-49 - CLEANED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\Business\App_Data.fullname
+INFO: 2020-06-29:04-49-49 - CLEANED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\Business\bin.fullname
+INFO: 2020-06-29:04-49-50 - CLEANED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\Business\Content.fullname
+INFO: 2020-06-29:04-49-50 - CLEANED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\Business\fonts.fullname
+INFO: 2020-06-29:04-49-50 - CLEANED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\Business\Properties.fullname
+INFO: 2020-06-29:04-49-50 - CLEANED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\Business\Scripts.fullname
+INFO: 2020-06-29:04-49-50 - CLEANED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\Business\Views.fullname
+INFO: 2020-06-29:04-49-50 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\business is complete
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\App_Code.fullname
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\App_Data.fullname
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\bin.fullname
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\Properties.fullname
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\Views.fullname
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\Assets\Assets.fullname
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\Assets\css.fullname
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\Assets\fonts.fullname
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\Assets\js.fullname
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\Assets\sass.fullname
+INFO: 2020-06-29:04-49-50 - CLEARED... : + C:\Users\vinid\Desktop\SampleProjectName\modules\web\Assets\ts.fullname
+INFO: 2020-06-29:04-49-50 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\web is complete
+INFO: 2020-06-29:04-52-40 - Start backuping project
+INFO: 2020-06-29:04-52-40 - Backup for project created, PATH: C:\Users\vinid\Desktop\SampleProjectName\modules\C:\Users\vinid\Desktop\SampleProjectName\modules
+INFO: 2020-06-29:04-52-40 - Backuping project ---> DONE 
+INFO: 2020-06-29:04-52-40 - Start backuping Database
+INFO: 2020-06-29:04-52-40 - Backuping Database ---> DONE 
+INFO: 2020-06-29:04-52-40 - Start pulling from github: 
+INFO: 2020-06-29:04-52-40 - Pulling project ---> DONE 
+INFO: 2020-06-29:04-52-40 - Start publishing project: 
+INFO: 2020-06-29:04-52-40 - Publishing project ---> DONE 
+INFO: 2020-06-29:04-52-40 - Start renewing project: 
+INFO: 2020-06-29:04-52-40 - Renewing project ---> DONE 
+INFO: 2020-06-29:04-52-40 - Start deploying modules: 
+INFO: 2020-06-29:04-52-40 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\admin is complete
+INFO: 2020-06-29:04-52-40 - Module Admin exists ---> Continue
+INFO: 2020-06-29:04-52-40 - Success! Admin module updated ---> Continue
+INFO: 2020-06-29:04-52-40 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\business is complete
+INFO: 2020-06-29:04-52-40 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\web is complete
+INFO: 2020-06-29:04-52-40 - Module Web exists ---> Start updating
+INFO: 2020-06-29:04-52-40 - Success! Web module updated ---> Continue
+INFO: 2020-06-29:04-52-40 - Updating modules ---> DONE
+INFO: 2020-06-29:04-52-40 - Deploying modules ---> DONE
+INFO: 2020-06-29:04-53-50 - Start backuping project
+INFO: 2020-06-29:04-53-50 - Backup for project created, PATH: C:\Users\vinid\Desktop\SampleProjectName\modules\C:\Users\vinid\Desktop\SampleProjectName\modules
+INFO: 2020-06-29:04-53-50 - Backuping project ---> DONE 
+INFO: 2020-06-29:04-53-50 - Start backuping Database
+INFO: 2020-06-29:04-53-50 - Backuping Database ---> DONE 
+INFO: 2020-06-29:04-53-50 - Start pulling from github: 
+INFO: 2020-06-29:04-53-50 - Pulling project ---> DONE 
+INFO: 2020-06-29:04-53-50 - Start publishing project: 
+INFO: 2020-06-29:04-53-50 - Publishing project ---> DONE 
+INFO: 2020-06-29:04-53-50 - Start renewing project: 
+INFO: 2020-06-29:04-53-50 - Renewing project ---> DONE 
+INFO: 2020-06-29:04-53-50 - Start deploying modules: 
+INFO: 2020-06-29:04-53-50 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\admin is complete
+INFO: 2020-06-29:04-53-50 - Module Admin exists ---> Continue
+INFO: 2020-06-29:04-53-50 - Success! Admin module updated ---> Continue
+INFO: 2020-06-29:04-53-50 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\business is complete
+INFO: 2020-06-29:04-53-50 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\web is complete
+INFO: 2020-06-29:04-53-50 - Module Web exists ---> Start updating
+INFO: 2020-06-29:04-53-50 - Success! Web module updated ---> Continue
+INFO: 2020-06-29:04-53-50 - Updating modules ---> DONE
+INFO: 2020-06-29:04-53-50 - Deploying modules ---> DONE
+INFO: 2020-06-29:04-55-02 - Start backuping project
+INFO: 2020-06-29:04-55-02 - Backup for project created, PATH: C:\Users\vinid\Desktop\SampleProjectName\modules\C:\Users\vinid\Desktop\SampleProjectName\modules
+INFO: 2020-06-29:04-55-02 - Backuping project ---> DONE 
+INFO: 2020-06-29:04-55-02 - Start backuping Database
+INFO: 2020-06-29:04-55-02 - Backuping Database ---> DONE 
+INFO: 2020-06-29:04-55-02 - Start pulling from github: 
+INFO: 2020-06-29:04-55-02 - Pulling project ---> DONE 
+INFO: 2020-06-29:04-55-02 - Start publishing project: 
+INFO: 2020-06-29:04-55-02 - Publishing project ---> DONE 
+INFO: 2020-06-29:04-55-02 - Start renewing project: 
+INFO: 2020-06-29:04-55-02 - Renewing project ---> DONE 
+INFO: 2020-06-29:04-55-02 - Start deploying modules: 
+INFO: 2020-06-29:04-55-02 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\admin is complete
+INFO: 2020-06-29:04-55-02 - Module Admin exists ---> Continue
+INFO: 2020-06-29:04-55-02 - Success! Admin module updated ---> Continue
+INFO: 2020-06-29:04-55-02 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\business is complete
+INFO: 2020-06-29:04-55-02 - Remove old data in C:\Users\vinid\Desktop\SampleProjectName\modules\web is complete
+INFO: 2020-06-29:04-55-02 - Module Web exists ---> Start updating
+INFO: 2020-06-29:04-55-02 - Success! Web module updated ---> Continue
+INFO: 2020-06-29:04-55-02 - Updating modules ---> DONE
+INFO: 2020-06-29:04-55-02 - Deploying modules ---> DONE

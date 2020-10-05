@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<configuration>
+	<startup>
+	</startup>
+	<appSettings>
+		<!--Variables-->
+		<add key="modulesPATH" value="">
+		<add key="projectPATH" value=""/>
+		<add key="backupProjectFolder" value=""/>
+		<add key="configFilePath" value=""/>
+		<add key="backupDbFolder" value=""/>
+		<add key="deployFolder" value=""/>
+		<add key="archivesPATH" value=""/>
+		<add key="branchName" value=""/>
+		<add key="logFilePATH" value="D:"/>
+		<!--TODO: path to module directory-->
+	</appSettings>
+</configuration>

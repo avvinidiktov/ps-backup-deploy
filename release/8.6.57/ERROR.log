@@ -1,0 +1,53 @@
+ERROR: 2020-06-29:04-49-49 - Start backuping project
+ERROR: 2020-06-29:04-49-49 - Error when trying to copy project from  to  System.NotSupportedException, The given path's format is not supported.
+ERROR: 2020-06-29:04-49-49 - Start backuping Database
+ERROR: 2020-06-29:04-49-49 - Start pulling from github: 
+ERROR: 2020-06-29:04-49-49 - Start publishing project: 
+ERROR: 2020-06-29:04-49-49 - Start renewing project: 
+ERROR: 2020-06-29:04-49-49 - Start deploying modules: 
+ERROR: 2020-06-29:04-49-49 - Start deploying Admin: 
+ERROR: 2020-06-29:04-49-49 - Updating Admin 
+ERROR: 2020-06-29:04-49-49 - Start deploying Business: 
+ERROR: 2020-06-29:04-49-50 - Updating Business
+ERROR: 2020-06-29:04-49-50 - Start deploying Retail: 
+ERROR: 2020-06-29:04-49-50 - Updating Retail
+ERROR: 2020-06-29:04-49-50 - Error in main script, stack trace: System.Management.Automation.CommandNotFoundException, The term 'UpdateRetail' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+ERROR: 2020-06-29:04-52-40 - Start backuping project
+ERROR: 2020-06-29:04-52-40 - Error when trying to copy project from  to  System.NotSupportedException, The given path's format is not supported.
+ERROR: 2020-06-29:04-52-40 - Start backuping Database
+ERROR: 2020-06-29:04-52-40 - Start pulling from github: 
+ERROR: 2020-06-29:04-52-40 - Start publishing project: 
+ERROR: 2020-06-29:04-52-40 - Start renewing project: 
+ERROR: 2020-06-29:04-52-40 - Start deploying modules: 
+ERROR: 2020-06-29:04-52-40 - Start deploying Admin: 
+ERROR: 2020-06-29:04-52-40 - Updating Admin 
+ERROR: 2020-06-29:04-52-40 - Start deploying Business: 
+ERROR: 2020-06-29:04-52-40 - Updating Business
+ERROR: 2020-06-29:04-52-40 - Start deploying Retail: 
+ERROR: 2020-06-29:04-52-40 - Updating Retail
+ERROR: 2020-06-29:04-53-50 - Start backuping project
+ERROR: 2020-06-29:04-53-50 - Error when trying to copy project from  to  System.NotSupportedException, The given path's format is not supported.
+ERROR: 2020-06-29:04-53-50 - Start backuping Database
+ERROR: 2020-06-29:04-53-50 - Start pulling from github: 
+ERROR: 2020-06-29:04-53-50 - Start publishing project: 
+ERROR: 2020-06-29:04-53-50 - Start renewing project: 
+ERROR: 2020-06-29:04-53-50 - Start deploying modules: 
+ERROR: 2020-06-29:04-53-50 - Start deploying Admin: 
+ERROR: 2020-06-29:04-53-50 - Updating Admin 
+ERROR: 2020-06-29:04-53-50 - Start deploying Business: 
+ERROR: 2020-06-29:04-53-50 - Updating Business
+ERROR: 2020-06-29:04-53-50 - Start deploying Retail: 
+ERROR: 2020-06-29:04-53-50 - Updating Retail
+ERROR: 2020-06-29:04-55-02 - Start backuping project
+ERROR: 2020-06-29:04-55-02 - Error when trying to copy project from  to  System.NotSupportedException, The given path's format is not supported.
+ERROR: 2020-06-29:04-55-02 - Start backuping Database
+ERROR: 2020-06-29:04-55-02 - Start pulling from github: 
+ERROR: 2020-06-29:04-55-02 - Start publishing project: 
+ERROR: 2020-06-29:04-55-02 - Start renewing project: 
+ERROR: 2020-06-29:04-55-02 - Start deploying modules: 
+ERROR: 2020-06-29:04-55-02 - Start deploying Admin: 
+ERROR: 2020-06-29:04-55-02 - Updating Admin 
+ERROR: 2020-06-29:04-55-02 - Start deploying Business: 
+ERROR: 2020-06-29:04-55-02 - Updating Business
+ERROR: 2020-06-29:04-55-02 - Start deploying Retail: 
+ERROR: 2020-06-29:04-55-02 - Updating Retail
